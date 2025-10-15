@@ -1,4 +1,4 @@
-# CortexAI Plugins
+# [CortexAI](https://github.com/theelderemo/cortexai) Plugins
 
 CortexAI's agent core is modular.  
 Plugins let you inject new commands without forking the main repo or needing to modify any of the main code and, literally, the sky's the limit.
